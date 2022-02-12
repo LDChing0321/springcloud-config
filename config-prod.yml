@@ -1,1 +1,4 @@
-prod
+label: master 
+profile: prod
+config: 
+  info: master-prod1
